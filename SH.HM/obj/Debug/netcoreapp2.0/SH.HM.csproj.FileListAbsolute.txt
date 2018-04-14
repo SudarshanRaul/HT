@@ -1,0 +1,11 @@
+C:\software\Somu\Practice\SH.HM\SH.HM\bin\Debug\netcoreapp2.0\SH.HM.deps.json
+C:\software\Somu\Practice\SH.HM\SH.HM\bin\Debug\netcoreapp2.0\SH.HM.runtimeconfig.json
+C:\software\Somu\Practice\SH.HM\SH.HM\bin\Debug\netcoreapp2.0\SH.HM.runtimeconfig.dev.json
+C:\software\Somu\Practice\SH.HM\SH.HM\bin\Debug\netcoreapp2.0\SH.HM.dll
+C:\software\Somu\Practice\SH.HM\SH.HM\bin\Debug\netcoreapp2.0\SH.HM.pdb
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.csprojResolveAssemblyReference.cache
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.csproj.CoreCompileInputs.cache
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.AssemblyInfoInputs.cache
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.AssemblyInfo.cs
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.dll
+C:\software\Somu\Practice\SH.HM\SH.HM\obj\Debug\netcoreapp2.0\SH.HM.pdb

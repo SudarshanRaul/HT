@@ -1,0 +1,62 @@
+﻿
+<h1>Employee Data</h1>
+<p>This component demonstrates fetching Employee data from the server.</p>
+<p *ngIf="!candidateList"><em>Loading...</em></p>
+<!--<p>
+    <a [routerLink]="['/register-employee']">Create New</a>
+</p>-->
+<table class='table' *ngIf="candidateList">
+    <thead>
+        <tr>
+           
+            <th>ID</th>
+            <th>Name</th>
+            <th>Phone</th>
+            <!--<th>Department</th>
+            <th>City</th>-->
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let can of candidateList">
+            <td>{{ can.candidateId }}</td>
+            <td>{{ can.candidateName }}</td>
+            <td>{{ can.phone }}</td>
+
+
+            <!--<td>
+                <a [routerLink]="['/employee/edit/', emp.id]">Edit</a> |
+                <a [routerLink]="" (click)="delete(emp.id)">Delete</a>
+            </td>-->
+        </tr>
+    </tbody>
+</table>
+<div class="container">
+    <div class="content">
+        <!--<tr *ngFor="let can of candidateList">
+            <td>{{ can.candidateId }}</td>
+            <td>{{ can.candidateName }}</td>
+            <td>{{ can.phone }}</td>
+
+        </tr>-->
+        <p>string1</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string1</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string1</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string1</p>
+        <p>string</p>
+        <p>string</p>
+        <p>string</p>
+    </div>
+</div>
+<script type="text/javascript" src="~/Scripts/Controllers/Dashboard.js"></script>
+
+
+

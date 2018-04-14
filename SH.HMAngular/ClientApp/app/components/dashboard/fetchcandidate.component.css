@@ -1,0 +1,10 @@
+﻿.container {
+    height: 200px;
+    background: red;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.content {
+    background: #eee;
+}
