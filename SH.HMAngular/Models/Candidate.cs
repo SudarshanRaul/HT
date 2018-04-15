@@ -7,10 +7,14 @@ namespace SH.HMAngular.Models
 {
     public class Candidate
     {
+        public Candidate()
+        {
+            //CandidateStatus = enum.CandidateStatus.L1;
+        }
         public int CandidateId { get; set; }
         public string CandidateName { get; set; }
         public string Phone { get; set; }
-        //public Enum CandidateStatus { get; set; }
+        public Enum CandidateStatus { get; set; }
     }
 
     /// <summary>
@@ -18,9 +22,10 @@ namespace SH.HMAngular.Models
     /// </summary>
     public enum CandidateStatus
     {
-        L1 = 1,
-        L2 = 2,
-        L3 = 3,
-        L4 = 4
+        L1,
+        L2,
+        L3,
+        L4,
+        L5
     }
 }
