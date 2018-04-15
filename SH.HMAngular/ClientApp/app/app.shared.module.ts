@@ -29,7 +29,7 @@ import { FetchCandidateComponent } from './components/dashboard/fetchcandidate.c
             { path: '', redirectTo: 'home', pathMatch: 'full' },
             { path: 'home', component: HomeComponent },
             //{ path: 'counter', component: CounterComponent },
-            { path: 'fetch-candidate', component: FetchCandidateComponent },
+            { path: 'dashboard', component: FetchCandidateComponent },
             { path: '**', redirectTo: 'home' }
         ])
     ],
